@@ -1,0 +1,35 @@
+body {
+    background-color: #444444;
+    padding: 2px;
+    border: 2px #888888 solid;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: 300px;
+}
+header {
+    color: white;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+nav {
+    color: green;
+    text-align: center;
+}
+
+.nav-links {
+    color: green;
+    text-align: center;
+}
+
+main {
+    color: white;
+    text-align: center;
+}
